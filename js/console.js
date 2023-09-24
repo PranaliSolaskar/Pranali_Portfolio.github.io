@@ -8,7 +8,7 @@ var filled = false;
 // set up text to print, each item in array is new line
 var aText = new Array(
 "> Hello!", 
-"> My name is Pranali. 
+"> My name is Pranali.", 
 "> I love programming and challenges.",
 "> I am pursuing Master Of Computer Application",
 "> I am Java developer and learner.",
